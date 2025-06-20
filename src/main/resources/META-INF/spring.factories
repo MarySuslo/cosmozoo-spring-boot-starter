@@ -1,0 +1,7 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+CosmoZoo,\
+CosmoZooLegacy,\
+NapoleonFactory, \
+ShushaFactory, \
+SiniiFactory, \
+TigrokrisFactory
